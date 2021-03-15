@@ -1,0 +1,13 @@
+C:\Users\maiph\source\repos\CAtestGit\CAtestGit\bin\Debug\netcoreapp3.1\CAtestGit.exe
+C:\Users\maiph\source\repos\CAtestGit\CAtestGit\bin\Debug\netcoreapp3.1\CAtestGit.deps.json
+C:\Users\maiph\source\repos\CAtestGit\CAtestGit\bin\Debug\netcoreapp3.1\CAtestGit.runtimeconfig.json
+C:\Users\maiph\source\repos\CAtestGit\CAtestGit\bin\Debug\netcoreapp3.1\CAtestGit.runtimeconfig.dev.json
+C:\Users\maiph\source\repos\CAtestGit\CAtestGit\bin\Debug\netcoreapp3.1\CAtestGit.dll
+C:\Users\maiph\source\repos\CAtestGit\CAtestGit\bin\Debug\netcoreapp3.1\CAtestGit.pdb
+C:\Users\maiph\source\repos\CAtestGit\CAtestGit\obj\Debug\netcoreapp3.1\CAtestGit.csprojAssemblyReference.cache
+C:\Users\maiph\source\repos\CAtestGit\CAtestGit\obj\Debug\netcoreapp3.1\CAtestGit.AssemblyInfoInputs.cache
+C:\Users\maiph\source\repos\CAtestGit\CAtestGit\obj\Debug\netcoreapp3.1\CAtestGit.AssemblyInfo.cs
+C:\Users\maiph\source\repos\CAtestGit\CAtestGit\obj\Debug\netcoreapp3.1\CAtestGit.csproj.CoreCompileInputs.cache
+C:\Users\maiph\source\repos\CAtestGit\CAtestGit\obj\Debug\netcoreapp3.1\CAtestGit.dll
+C:\Users\maiph\source\repos\CAtestGit\CAtestGit\obj\Debug\netcoreapp3.1\CAtestGit.pdb
+C:\Users\maiph\source\repos\CAtestGit\CAtestGit\obj\Debug\netcoreapp3.1\CAtestGit.genruntimeconfig.cache
